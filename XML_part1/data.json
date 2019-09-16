@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "FullName":  "Assel Moldasheva",
+    "Stage": 10,
+    "Salary": 2000.0,
+    "EmploymentDate": "16.03.2009"
+  },
+  {
+    "Id": 2,
+    "FullName": "Assel Moldasheva2",
+    "Stage": 10,
+    "Salary": 2000.0,
+    "EmploymentDate": "16.03.2009"
+  },
+  {
+    "Id": 3,
+    "FullName": "Assel Moldasheva3",
+    "Stage": 10,
+    "Salary": 2000.0,
+    "EmploymentDate": "16.03.2009"
+  }
+]
